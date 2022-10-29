@@ -1,10 +1,13 @@
 # VVS-Tarea08-AspectJ
-Definiendo aspectos con AspectJ sobre un proyecto anterior de TdP
+Definiendo aspectos con AspectJ sobre un proyecto anterior de TdP.
+
+El aspecto definido muestra por consola las distintas creaciones de entidades en el juego.
 
 # Run
-src.gui.ventana_principal.java
+hacer run al siguiente archivo para ver los println: **src.gui.ventana_principal.java**
 
-#Version de Java utilizada
+# Version de Java utilizada
 jdk-11.0.6
 
-Repositorio: https://github.com/AgustinGD/VVS-Tarea08-AspectJ.git
+# Repositorio
+https://github.com/AgustinGD/VVS-Tarea08-AspectJ.git
